@@ -1,0 +1,19 @@
+Body{
+	width: 40%;
+	margin: 1% auto;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: gray;
+}
+#main_block{
+	overflow: hidden;
+	border: solid 8px hsl(0, 1%, 97%);
+}
+#title_{
+	margin: 3px;
+	background: white;
+	padding: 8px;
+	
+}
+th[id^="cl_tod"]{
+	background: hsl(197, 100%, 95%);
+}
